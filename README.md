@@ -1,3 +1,13 @@
-# UNINTER - Trabalhos de faculdade
+# Cofrinho em Java
 
-Seja bem-vindo(a) ao meu acervo da faculdade Uninter onde eu armazeno todos os meus trabalho da faculdade em um local e separado por branchs.
+O objetivo deste projeto é colocar em prática as habilidades basicas da linguagem como herança, polimorfismo, coleções, entre outras como lógica de programação.
+
+## Requisitos
+- Possibilidade de ter várias moedas
+- Adicionar moedas de vários tipos
+- Remover moedas
+- Litsar moedas
+- Ver quantidade de todas as moedas juntas em reais.
+
+### Observações
+

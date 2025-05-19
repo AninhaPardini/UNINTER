@@ -6,7 +6,7 @@ O objetivo deste projeto é colocar em prática as habilidades basicas da lingua
 - Possibilidade de ter várias moedas
 - Adicionar moedas de vários tipos
 - Remover moedas
-- Litsar moedas
+- Listar moedas
 - Ver quantidade de todas as moedas juntas em reais.
 
 ### Observações

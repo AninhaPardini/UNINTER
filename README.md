@@ -1,8 +1,10 @@
-# UNINTER - Trabalhos de faculdade
+# Lista Encadeada em Python
 
-Seja bem-vindo(a) ao meu acervo da faculdade Uninter onde eu armazeno todos os meus trabalho da faculdade em um local e separado por branchs.
+O objetivo deste projeto é colocar em prática as habilidades basicas da organização de listas e hash em python com um sistema de lista encadeada.
 
-## Projetos
-[Cofrinho em Java](https://github.com/AninhaPardini/UNINTER/tree/Cofrinho-em-Java)
-[Lista Encadeada em Python](https://github.com/AninhaPardini/UNINTER/tree/](https://github.com/AninhaPardini/UNINTER/tree/Lista-Encadeada-em-Python)
-[Estados em Hash]()
+## Requisitos
+
+
+
+### Observações
+

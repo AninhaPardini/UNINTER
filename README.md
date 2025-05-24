@@ -4,4 +4,4 @@ Seja bem-vindo(a) ao meu acervo da faculdade Uninter onde eu armazeno todos os m
 
 ## Projetos
 [Cofrinho em Java](https://github.com/AninhaPardini/UNINTER/tree/Cofrinho-em-Java)
-[Lista Encadeada em Python]([https://github.com/AninhaPardini/UNINTER/tree/](https://github.com/AninhaPardini/UNINTER/tree/Lista-Encadeada-em-Python)
+[Lista Encadeada em Python](https://github.com/AninhaPardini/UNINTER/tree/Lista-Encadeada-em-Python)
